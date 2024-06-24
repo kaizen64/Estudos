@@ -1,0 +1,1 @@
+# Relevant stuff to learn programming 
